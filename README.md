@@ -1,4 +1,4 @@
-# bike_share_scheme_predicction
+# bike_share_scheme_prediction
 
 Machine Learning competition (https://github.com/soyHenry/Datathon).
 I developed a Histogram-based Gradient Boosting Regression Tree Model to predict the Washington D.C. Bicycle Share Scheme usage.
